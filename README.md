@@ -269,5 +269,5 @@ Mensaje recibido. Ya he creado una sección en el readme.md de
 
 Si quieres aprender más sobre Python, puedes consultar los siguientes recursos:
 
-- El tutorial oficial de Python: [https://docs.python.org/es/3/tutorial/index.html](https://docs.python.org/es/3/tutorial/index.html), donde encontrarás una introducción al lenguaje y sus características[^2^][5].
+- El tutorial oficial de Python: [https://docs.python.org/es/3/tutorial/index.html](https://docs.python.org/es/3/tutorial/index.html), donde encontrarás una introducción al lenguaje y sus características.
 - La documentación oficial de Python: [https://docs.python.org/es/3/index.html](https://docs.python.org/es/3/index.html), donde encontrarás la referencia
