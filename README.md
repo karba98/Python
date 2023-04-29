@@ -16,15 +16,15 @@ Si usa el IDE VS Code. configure en launch.json y settings.json tanto la ejecuci
 
 ## Estructura de ejercicio
 
-📁  ->  Carpeta
+📁  ->  Carpeta<br>
 📄  ->  Archivo
 
 
-📁 py_*<br>
-`├─`  📁 app: Carpeta donde se encuentra el ejercicio principal.<br>
-`├─`  📁 tests: Carpeta donde se encuentran los tests del ejercicio.<br>
-`├─`  📁 .vscode: Carpeta donde se encuentran los archivos de configuración para VS Code.<br>
-`└─`  📄 requirements.txt: Archivo que contiene las librerías necesarias para ejecutar el ejercicio.<br>
+📁 <b>py_*</b><br>
+`├─`  📁 <b>app</b>: Carpeta donde se encuentra el ejercicio principal.<br>
+`├─`  📁 <b>tests</b>: Carpeta donde se encuentran los tests del ejercicio.<br>
+`├─`  📁 <b>.vscode</b>: Carpeta donde se encuentran los archivos de configuración para VS Code.<br>
+`└─`  📄 <b>requirements.txt</b>: Archivo que contiene las librerías necesarias para ejecutar el ejercicio.<br>
 
 ## ¿Qué es Python?
 
