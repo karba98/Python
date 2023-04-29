@@ -49,13 +49,13 @@ Por ejemplo, si quieres ejecutar el ejercicio `hello_world.py`, debes escribir `
 ## Uso de Python en Visual Studio Code
 <br>
 <br>
-<p align="center">
-  <img width="800" height="300" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+<p align="left">
+  <img width="400" height="150" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
 </p>
 <br>
 <br>
 
-## Cómo usar y configurar Python en Visual Studio Code
+## Configuración
 
 Visual Studio Code (VS Code) es un editor de código fuente gratuito y multiplataforma que ofrece soporte para múltiples lenguajes de programación, entre ellos Python. VS Code tiene muchas ventajas para programar en Python, como:
 
