@@ -14,19 +14,31 @@ git clone [https://github.com/karba98/Python.git](https://github.com/karba98/Pyt
 
 Si usa el IDE VS Code. configure en launch.json y settings.json tanto la ejecución de pruebas de pytest como la depuración de cada ejercicio
 
+## Estructura de ejercicio
+
+📁  ->  Carpeta
+📄  ->  Archivo
+
+
+📁 py_*<br>
+`├─`  📁 app: Carpeta donde se encuentra el ejercicio principal.<br>
+`├─`  📁 tests: Carpeta donde se encuentran los tests del ejercicio.<br>
+`├─`  📁 .vscode: Carpeta donde se encuentran los archivos de configuración para VS Code.<br>
+`└─`  📄 requirements.txt: Archivo que contiene las librerías necesarias para ejecutar el ejercicio.<br>
+
 ## ¿Qué es Python?
 
-Python es un lenguaje de programación potente y fácil de aprender. Tiene estructuras de datos de alto nivel eficientes y un simple pero efectivo sistema de programación orientado a objetos. La elegante sintaxis de Python y su tipado dinámico, junto a su naturaleza interpretada lo convierten en un lenguaje ideal para scripting y desarrollo rápido de aplicaciones en diversas áreas y sobre la mayoría de las plataformas[^1^][6].
+Python es un lenguaje de programación potente y fácil de aprender. Tiene estructuras de datos de alto nivel eficientes y un simple pero efectivo sistema de programación orientado a objetos. La elegante sintaxis de Python y su tipado dinámico, junto a su naturaleza interpretada lo convierten en un lenguaje ideal para scripting y desarrollo rápido de aplicaciones en diversas áreas y sobre la mayoría de las plataformas.
 
-Python es un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, la programación imperativa y, en menor medida, la programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma[^2^][5].
+Python es un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, la programación imperativa y, en menor medida, la programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
 
-Python es desarrollado por la Python Software Foundation (PSF), una organización sin ánimo de lucro que promueve, protege y avanza el lenguaje Python, y que también apoya y facilita el crecimiento de una comunidad diversa e internacional de programadores de Python[^3^][1].
+Python es desarrollado por la Python Software Foundation (PSF), una organización sin ánimo de lucro que promueve, protege y avanza el lenguaje Python, y que también apoya y facilita el crecimiento de una comunidad diversa e internacional de programadores de Python.
 
 ## ¿Cómo instalar Python?
 
-Para instalar Python en tu sistema operativo, puedes descargarlo desde la página oficial [https://www.python.org/downloads/](https://www.python.org/downloads/), donde encontrarás las versiones más recientes y las notas de lanzamiento[^4^][2].
+Para instalar Python en tu sistema operativo, puedes descargarlo desde la página oficial [https://www.python.org/downloads/](https://www.python.org/downloads/), donde encontrarás las versiones más recientes y las notas de lanzamiento.
 
-También puedes usar el intérprete interactivo de Python desde tu navegador web, accediendo a [https://www.python.org/shell/](https://www.python.org/shell/), donde podrás ejecutar código Python sin necesidad de instalar nada[^5^][3].
+También puedes usar el intérprete interactivo de Python desde tu navegador web, accediendo a [https://www.python.org/shell/](https://www.python.org/shell/), donde podrás ejecutar código Python sin necesidad de instalar nada.
 
 ## ¿Cómo ejecutar los ejercicios?
 
