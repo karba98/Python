@@ -1,9 +1,9 @@
 from fastapi import FastAPI
 from fastapi.responses import StreamingResponse 
-app = FastAPI()
+app = FastAPI(root_path="/api")
 
 # simple example
-@app.get("/hello")
+@app.get("//hello")
 def hello(name: str = "anonimo"):
   try:
     if(name==""):
@@ -15,7 +15,7 @@ def hello(name: str = "anonimo"):
     #    return {"detail": "name parameter cannot be None"}
 
 # return image
-@app.get("/plot-iris")
+@app.get("//plot-iris")
 def plot_iris():
 
     import pandas as pd
@@ -31,7 +31,7 @@ def plot_iris():
     return StreamingResponse(__file, media_type="image/png")
 
 # example json
-@app.get("/plot-iris-data")
+@app.get("//plot-iris-data")
 def get_iris():
 
     import pandas as pd
